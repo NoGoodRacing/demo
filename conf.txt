@@ -1,2 +1,3 @@
 Model: K20
 Type: NA
+Power: 215 HP
