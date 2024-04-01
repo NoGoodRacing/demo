@@ -1,0 +1,2 @@
+Model: K20
+Type: NA
